@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gustavocaldassouza
+# - 👋 Hi, I’m @gustavocaldassouza
 [![gustavocaldassouza's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavocaldassouza)](https://github.com/gustavocaldassouza/github-readme-stats)
 <p align="center"> 
   Visitor count<br>
