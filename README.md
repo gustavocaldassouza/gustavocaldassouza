@@ -8,9 +8,7 @@ Currently, I'm focusing on **C#, ASP.NET, SQL Server, Angular, and React** while
 ---
 
 ## 🚀 What I'm Working On
-- 🎮 Building small games to explore algorithms, AI, and genetic programming  
 - 🌐 Web projects with **Spring Boot + React** and **ASP.NET + Angular**  
-- 📊 A data structures visualization site using **Three.js**  
 - 📱 A music room sync web app to share playlists with friends  
 
 ---
