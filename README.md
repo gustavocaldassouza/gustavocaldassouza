@@ -7,12 +7,6 @@ Currently, I'm focusing on **C#, ASP.NET, SQL Server, Angular, and React** while
 
 ---
 
-## 🚀 What I'm Working On
-- 🌐 Web projects with **Spring Boot + React** and **ASP.NET + Angular**  
-- 📱 A music room sync web app to share playlists with friends  
-
----
-
 ## 🛠️ Tech Stack
 - **Languages:** C#, Java, C++, JavaScript, TypeScript, SQL  
 - **Frameworks & Tools:** .NET, ASP.NET, Spring Boot, React, Angular, Node.js  
