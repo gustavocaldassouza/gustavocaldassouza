@@ -8,7 +8,7 @@ Currently, I'm focusing on **C#, Java, JS, ASP.NET, SQL Server, and React** whil
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** C#, Java, C++, JavaScript, TypeScript, SQL  
+- **Languages:** C#, Java, JavaScript, TypeScript, SQL  
 - **Frameworks & Tools:** .NET, ASP.NET, Spring Boot, React, Angular, Node.js  
 - **Databases:** SQL Server, MySQL, SQLite  
 - **Other:** Docker, CMake, Git, Linux (Arch)  
