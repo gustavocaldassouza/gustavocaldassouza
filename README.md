@@ -1,31 +1,19 @@
-# 👋 Hi, I'm Gustavo  
+# Gustavo Caldas
 
-💻 **Software Developer | IT Student at College LaSalle**  
+Software Developer · IT Student
 
-I'm passionate about building software that solves real problems and improving my skills through hands-on projects.  
-Currently, I'm focusing on **C#, Java, JS, ASP.NET, SQL Server, and React** while also exploring areas like **AI** and **game development**.  
+I like building practical software that solves real problems.
 
----
+My current focus is C#, Java, JavaScript, ASP.NET, SQL Server, and React. I also explore AI, game development, and backend systems.
 
-## 🛠️ Tech Stack
-- **Languages:** C#, Java, JavaScript, TypeScript, SQL  
-- **Frameworks & Tools:** .NET, ASP.NET, Spring Boot, React, Angular, Node.js  
-- **Databases:** SQL Server, MySQL, SQLite  
-- **Other:** Docker, CMake, Git, Linux (Arch)  
+## Stack
 
----
+**Languages:** C#, Java, JavaScript, TypeScript, SQL  
+**Frameworks:** .NET, ASP.NET, Spring Boot, React, Angular, Node.js  
+**Databases:** SQL Server, MySQL, SQLite  
+**Tools:** Docker, Git, Linux, CMake
 
-## 🌟 A Bit About Me
-- 💡 I enjoy creating both **professional apps** and **fun side projects**  
-- 📚 Strong interest in **AI** and **Game Development**  
-- ☕ I love the café atmosphere and working with people as much as coding  
-- 🎮 In my free time, you’ll find me gaming, cooking, or learning something new  
+## Links
 
----
-
-## 📫 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/gustavo-caldas-de-souza-32375716b/)  
-- [GitHub](https://github.com/gustavocaldassouza)  
-
----
-⭐ *Feel free to check out my repositories and connect with me — I’m always open to collaborating or sharing ideas!*
+[LinkedIn](https://www.linkedin.com/in/gustavo-caldas-de-souza-32375716b/)  
+[GitHub](https://github.com/gustavocaldassouza)
